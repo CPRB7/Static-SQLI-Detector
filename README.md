@@ -13,6 +13,7 @@ The detector analyzes Python source code, identifies untrusted data sources, tra
 
 ## Key Features
 
+- **Scope Handling:** Function-local variables stay separate and won't leak..
 - **AST-Based Analysis:** Parses Python source code using the Abstract Syntax Tree (AST).
 - **Taint Analysis:** Tracks untrusted data through variable assignments and expressions.
 - **SQL Sink Detection:** Identifies SQL execution APIs such as `execute()` and `executemany()`.
