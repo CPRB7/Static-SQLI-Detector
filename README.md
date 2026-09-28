@@ -227,15 +227,3 @@ The exact limitations depend on the implemented analysis rules.
 
 Academic / research project focused on static SQL Injection detection using AST-based taint analysis.
 
-## Author
-
-**Piyush Ray Bansal**
-
-B.Tech CSE  
-National Institute of Technology, Warangal
-
-## Disclaimer
-
-This tool is intended for educational, research, and defensive security purposes.
-
-Use it only on source code you own or are authorized to analyze.
